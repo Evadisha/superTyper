@@ -1,5 +1,7 @@
 # superTyper
 
+https://evadisha.github.io/superTyper/
+
 Game to beat the clock by typing random words
 
 ## Project Specifications
